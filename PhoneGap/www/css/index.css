@@ -115,6 +115,7 @@ h1 {
 }
 
 button {
-    width:300px;
-    height:100px;
+    padding: 10px;
+    height: 100px;
+    width: 1060px;
 }
